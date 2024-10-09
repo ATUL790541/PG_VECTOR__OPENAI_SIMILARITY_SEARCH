@@ -1,0 +1,1 @@
+Using OPENAI model created a embdedding of read csv file for specific column in dictionary then wrote this csv file with generated vector embedding for each row in a PostgresSQL table and then performed similairty search on written table in PostgresSQL using COSINE SIMILARITY.
